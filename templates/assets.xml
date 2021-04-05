@@ -22,7 +22,7 @@
                 <link rel="stylesheet" type="text/scss" href="/theme_hspl_emerald/static/src/scss/theme_colors.scss" />
             </xpath>
         </template>
-        <template id="theme_helpers" inherit_id="web._assets_frontend_helpers">
+        <!-- <template id="theme_helpers" inherit_id="web._assets_frontend_helpers">
             <xpath expr="//link[last()]" position="after">
                 <link rel="stylesheet" type="text/scss" href="/theme_hspl_emerald/static/lib/theme/variables.scss" />
             </xpath>
@@ -31,5 +31,5 @@
             <xpath expr="//link" position="before">
                 <link rel="stylesheet" type="text/scss" href="/theme_hspl_emerald/static/lib/theme/font.scss" />
             </xpath>
-        </template>
+        </template> -->
     </odoo>
